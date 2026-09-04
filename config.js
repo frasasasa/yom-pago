@@ -1,4 +1,3 @@
-// Pegá aquí el link completo de dLocal Go (ej: https://checkout.dlocalgo.com/checkout/payment?...)
 window.YOM_PAYMENT = {
-  url: "REPLACE_ME"
+  url: "https://checkout.dlocalgo.com/validate/7wJ1FBu1X83kk58IuikM8rPBOfBKncjX"
 };
